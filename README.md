@@ -1,4 +1,4 @@
-### Hi there, I'm Thien An - aka Andrew 👋
+### Hi there, 
 Welcome to our FPT-Event Manger project
 This is a team project with 5-member group!!!
 ## 
